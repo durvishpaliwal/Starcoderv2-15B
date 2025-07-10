@@ -86,3 +86,18 @@ Feel free to explore, fork, and build on top of this pipeline for other language
 [Durvish Paliwal](https://www.linkedin.com/in/durvishpaliwal) - dp2225@njit.edu
 
 [Pruthvi Kadam](https://www.linkedin.com/in/pruthvi-kadam-480aa7265) - pk759@njit.edu
+
+
+
+### 📁 File Descriptions
+
+| File Name                                 | Description            |
+|-------------------------------------------|------------------------|
+| `C-Sharp Starcoder2-15b (1).pdf`          | ppt                    |
+| `README.md`                               | Project description    |
+| `SP25_DS677004_C_Sharp_StarCoder2_15b.ipynb` | python notebooks     |
+| `SP25_DS677004_SeedGathering.ipynb`       | python notebooks       |
+| `data-concept_gen-c_i-...`                | c->i output            |
+| `seed2_output_cleaned.parquet`            | filtered seeds file    |
+| `self-ossinstruct-fewshot.txt`            | fewshot file           |
+| `tree_sitter_parser.py`                   | c# tree-sitter         |
